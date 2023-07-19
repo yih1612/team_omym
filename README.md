@@ -30,7 +30,7 @@ Data Model
 - QnA
 > 백엔드
 - Login page > JWT 인증 흐름을 사용한 SpringBoot 로그인 구현
-- 결제내역 page > 유저의 결제내역과 각 상품에 대한 취소, 리뷰 버튼 구현
+- 구매내역 page > 유저의 결제내역과 각 상품에 대한 취소, 리뷰 버튼 구현
 
 ## 사이트 간략기능
 상단바(검색기능 구현 참여)
@@ -50,11 +50,17 @@ Data Model
 
 - 구매내역 : 취소신청, 상품리뷰작성
 <img width="1390" alt="image" src="https://user-images.githubusercontent.com/85289162/182339061-a91e277a-0de0-49d7-8bbb-9f0ec15ddd7f.png">
+<img width="1352" alt="image" src="https://github.com/yih1612/team_omym/assets/70312216/bd190ef9-126b-4de0-b8af-d5f446017f13">
+<img width="1352" alt="image" src="https://github.com/yih1612/team_omym/assets/70312216/eeb05fbf-244c-4018-b675-1393da4ee511">
 
 메인페이지
 - 선택 검색 : 위치검색을 통한 판매상품 검색
 - 판매 상품 나열 : 클릭시 제품 상세페이지로 이동함
 <img width="1378" alt="image" src="https://user-images.githubusercontent.com/85289162/182334214-838871c9-8b05-4517-9e55-5704e26daa5b.png">
+<img width="1340" alt="image" src="https://github.com/yih1612/team_omym/assets/70312216/9c14ce76-b86b-4191-9f5d-66f0c960c589">
+<img width="400" alt="image" src="https://github.com/yih1612/team_omym/assets/70312216/195ff0ba-698c-4841-9756-303205a741c3">
+<img width="420" alt="image" src="https://github.com/yih1612/team_omym/assets/70312216/304c9d89-aad2-426c-8c6e-b901a2cefdb3">
+
 
 여행상품
 - 지역선택, 조회순, 리뷰많은순, 가격낮은순 정렬
